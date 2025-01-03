@@ -4,48 +4,27 @@
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Olá pessoal, este é um desafio do curso IA Generativa com Microsoft Copilot realizado pela DIO. Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Projeto > A Jornada da IA: Um Passeio pelo Futuro 🌌
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+A partir de trecho de textos escritos por mim anteriormente,Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para seleção de trechos importantes de textos escritos anteriormente por mim e união coerente deles em uma única narrativa, além da inserção de novos parágrafos e referências;
+- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
+- IA Generativa **[Lovo](https://lovo.ai/))** para criar o episódio de podcast;
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o "ChatGPT" para revisar meu textos sobre o tema e adicionar tópicos relevantes para conectar um texto ao outro, refinar o conteúdo e deixá-lo coerente. Após isso, realizei a criação do e-book com o auxílio da plataforma "Leonardo AI" e adicionei um trecho para que os leitores escutem ao podcast. Para transformar a experiência sobre o conteúdo ainda melhor, utilizei novamente o "ChatGPT" para criar um diálogo entre dois apresentadores de Podcast falando sobre o tema de acordo com o texto criado, após isso, utilizei o "Lovo" para transformar o texto em áudio.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+**[LINK PARA O E-BOOK AQUI](https://drive.google.com/file/d/1FLZxWr6P0Er3okVxNVyvgDGKuULgCt9c/view?usp=sharing)**
 
-### Exemplos e Insigths
+**[LINK PARA O PODCAST AQUI](https://genny.lovo.ai/share/cf154090-7f15-4047-807e-370ea9ac76f0)**
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+Criar este conteúdo me fez perceber com IAs podem participar positivamente de processos criativos e produção de conteúdo.
