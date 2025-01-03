@@ -6,7 +6,7 @@
 
 Olá pessoal, este é um desafio do curso IA Generativa com Microsoft Copilot realizado pela DIO. Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
-# Projeto > A Jornada da IA: Um Passeio pelo Futuro 🌌
+# Projeto > A sociedade do Cansaço: Estamos nos tornando mais pessimistas? 🌌
 
 ## 📒 Descrição
 A partir de trecho de textos escritos por mim anteriormente,Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
